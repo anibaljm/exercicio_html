@@ -2,4 +2,4 @@
 
 ## Receita Strogonoff de Frango
 
-Praticando com a receita os comandos aprendidos na aula
+Praticando com a receita os comandos aprendidos na aula de html
